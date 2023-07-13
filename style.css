@@ -1,0 +1,61 @@
+body {
+    font-family: sans-serif;
+}
+
+.naav{
+    text-decoration: none;
+    border: 1px solid black;
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 60px;
+}
+
+header{
+    background-color:skyblue;
+    width: 800px;
+    height: 200px;
+}
+
+h1{
+    text-align:center;
+    font-size: 70px;
+}
+
+header img{
+    height: 70px;
+    width: 80px;
+    float: left;
+    
+}
+
+main p{
+    font-size: 25px;
+    border: 2px solid black;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 20px;
+}
+
+li{
+    font-size: 30px;
+}
+
+footer{
+    background-color: skyblue;
+    width: 800px;
+    height: 150px;
+}
+
+.img-g{
+    height: 80px;
+    margin: 20px;
+    float: left;
+}
+
+.src{
+    width: 350px;
+    height: 200px;
+    border: 10px double black;
+}
